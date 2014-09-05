@@ -14,6 +14,7 @@ group :development do
   gem 'sqlite3', '1.3.8'
 end
 
+# gem requirements
 gem 'sass-rails', '4.0.3'    # use SCSS for stylesheets
 gem 'uglifier', '2.1.1'      # use Uglifier as compressor for Javascript assets
 gem 'coffee-rails', '4.0.1'  # use CoffeeScript for .js.coffee assets and views
